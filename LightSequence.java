@@ -28,7 +28,7 @@ LightSequence gradShow = new LightSequence("0101 0101 0101");}
 public String insertSegment(String segment, int ind)
 
 { /* implementation not shown */ 
-gradShow.changeSequence("0011 0011 0011");}
+
 
  
 
@@ -39,7 +39,7 @@ gradShow.changeSequence("0011 0011 0011");}
 public void changeSequence(String seq)
 
 { /* implementation not shown */ }
-
+gradShow.changeSequence("0011 0011 0011");}
  
 
 /** Uses the current sequence to turn the light on and off

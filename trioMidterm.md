@@ -1,4 +1,4 @@
-## Nick, Tanmay, Roop Trio
+## Roop and Jacqueline
 #### List of tech terms required to show FRQ year-to-date competency
 #### Casting, specifically for Division
 - Gives us the ability to divide two numbers without needing to round them first
