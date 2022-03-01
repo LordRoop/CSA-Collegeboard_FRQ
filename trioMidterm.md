@@ -64,7 +64,6 @@ public class TestNum
 #### Truth Tables
 - Defines boolean functions for each possible value
 - Each column is for a variable, and each row represents each possible combination of the variable values, and the column specifies the value of the function
-- ![Truth Table](https://introcs.cs.princeton.edu/java/71boolean/images/truth-table.png)
 #### De Morgan's Law
 - Method of handling complex conditionals
 - Depending on the 2 booleans, (oversixfoot and looks fit) an output is produced
